@@ -13,16 +13,11 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23121011.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
-🛠️ Sobre Mim
+## 🛠️ Sobre Mim
 ✔️ Desenvolvimento de modelos preditivos e análise de dados.
 ✔️ Construção de dashboards interativos com Power BI e Metabase.
 ✔️ Manipulação e limpeza de dados usando Pandas e SQL.
 ✔️ Otimização de modelos de Machine Learning com técnicas avançadas.
-
-## 📈 Projetos em Destaque  
-🔹 [Previsão de Pontuação na NBA](#)  
-🔹 [Análise de Dados de Vendas](#)  
-🔹 [Dashboard Interativo com Metabase](#)  
 
 ## 📫 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-de-assis-808377218/)  
