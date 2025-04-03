@@ -16,9 +16,9 @@
 
 ### 📊 Estatísticas do GitHub:
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=francisco-github&show_icons=true&theme=dark)
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscoAssislsj&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-github&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoAssislsj&layout=compact&theme=dark)
 
 ---
 
