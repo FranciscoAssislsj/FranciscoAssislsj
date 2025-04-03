@@ -1,4 +1,4 @@
-<h1 align="center">Francisco de Assis</h1>
+<h1 align="center" style="font-size: 48px;">Francisco de Assis</h1>
 
 ## 💻 Cientista de Dados  
 ### Trabalho com Machine Learning, Inteligência Artificial e Análise de Dados
