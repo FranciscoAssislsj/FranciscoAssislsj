@@ -1,7 +1,7 @@
-# Francisco de Assis
+<h1 align="center">Francisco de Assis</h1>
 
 ## 💻 Cientista de Dados  
-### Trabalho com Machine Learning, Inteligência Artificial e Análise de Dados para resolver problemas reais e otimizar processos.
+### Trabalho com Machine Learning, Inteligência Artificial e Análise de Dados
 
 ## 📊 Principais Tecnologias  
 
