@@ -1,6 +1,6 @@
 <h1 align="center">Francisco de Assis</h1>
 
-## 💻 Cientista de Dados  
+## 💻 Analista de dados
 ### Trabalho com Machine Learning, Inteligência Artificial e Análise de Dados
 
 ## 📊 Principais Tecnologias  
