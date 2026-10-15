@@ -1,8 +1,7 @@
 <h1 align="center">Francisco de Assis</h1>
 
 <p align="center">
-  <strong>Engenheiro de Dados em formação</strong> · Analista de Dados Sênior<br>
-  Pipelines, modelagem dimensional e qualidade de dados
+  <strong>Engenheiro de Dados
 </p>
 
 ---
